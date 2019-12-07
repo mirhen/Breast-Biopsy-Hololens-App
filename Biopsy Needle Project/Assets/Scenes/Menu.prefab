@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6095262785211704011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1951033628531078, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951033628531078, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_Name
+      value: SceneDescriptionPanel (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.819
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.835
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.16283269
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98665375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4753320988497866, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -18.743
+      objectReference: {fileID: 0}
+    - target: {fileID: 114107642412081004, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: Breast Biopsy Needle
+      objectReference: {fileID: 0}
+    - target: {fileID: 114995780653097258, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: "Augmented Biopsy Needle is an app that helps radiologists view the depth
+        and length of a biopsy needle in augmented reality. \n\nFunctionalities include
+        viewing the virtual needle, seeing the depth of a digital shoot prior to shooting
+        a real biopsy needle for 18mm and 25mm shoots.\n\nPress the buttons to shoot
+        or use the voice commands from the list below to get started.\n\n\n\n\nSay
+        \"Show Needle\"\nSay \"Hide Needle\"\nSay \"Shoot Small\" - to view the 18mm
+        shoot\nSay \"Retract Small\"\nSay \"Shoot Large\" - to view the 25mm shoot\nSay
+        \"Retract Large\"\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 114121190672569774, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: Voice Commands
+      objectReference: {fileID: 0}
+    - target: {fileID: 114125765304321574, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1149545904682892, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054075472835142, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114713125240876806, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: Miriam Haart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1171793634254456, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114186135864427680, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Hello my name is joe
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 114891230840493084, guid: a900c08743a94c328074df8bbe3eb63c,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Developed By:'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a900c08743a94c328074df8bbe3eb63c, type: 3}
